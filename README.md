@@ -1,6 +1,6 @@
-# Jitsi Meet SDK samples
+# Meet SDK samples
 
-This repository contains sample applications for Android and iOS which use the [Jitsi Meet] SDK. They are organized
+This repository contains sample applications for Android and iOS which use the [Meet] SDK. They are organized
 as follows:
 
 ## Android
@@ -16,4 +16,4 @@ as follows:
 
 NOTE: You must be using Xcode >= 10.2 for the iOS examples to run.
 
-[Jitsi Meet]: https://github.com/jitsi/jitsi-meet
+Powered by Open Standards using [Jitsi Meet]: https://github.com/jitsi/jitsi-meet
