@@ -16,4 +16,4 @@ as follows:
 
 NOTE: You must be using Xcode >= 10.2 for the iOS examples to run.
 
-Powered by Open Standards using [Jitsi Meet]: https://github.com/jitsi/jitsi-meet
+Powered by Open Standards - [Jitsi Meet]: https://github.com/jitsi/jitsi-meet
